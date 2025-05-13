@@ -13,4 +13,5 @@ Ha sido una práctica útil para entender mejor cómo funcionan los servicios en
 
 ## **Manual de instalación de ownCloud con virtualización mediante IsardVDI**
 [Manual de instalación](INSTALLATION.MD)
-[Manueal de configuracion](CONFIGURATION.MD)
+
+[Manual de configuracion](CONFIGURATION.MD)
