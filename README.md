@@ -12,6 +12,9 @@ Y todo lo que hemos hecho lo hemos documentado con unos manuales acompañados de
 Ha sido una práctica útil para entender mejor cómo funcionan los servicios en la nube y para aprender a montar un sistema funcional desde cero, controlando tanto la parte del servidor como la de seguridad y permisos.
 
 ## **Manual de instalación de ownCloud con virtualización mediante IsardVDI**
+
 [Manual de instalación](INSTALLATION.MD)
+
+## **Manual de configuració d’ownCloud** 
 
 [Manual de configuracion](CONFIGURATION.MD)
