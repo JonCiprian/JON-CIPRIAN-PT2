@@ -9,3 +9,5 @@ Un cop instal·lat, vam fer proves per verificar que funcionava correctament: pu
 Tot el procés s’ha documentat en dos fitxers .md INSTALLATION.md i CONFIGURATION.md seguint les bones pràctiques de redacció tècnica amb Markdown, i hem pujat tot el projecte a GitHub, tal com indicava el professor.
 
 Ha sigut una pràctica útil per entendre millor com funcionen els serveis al núvol i per aprendre a muntar un sistema funcional des de zero, controlant tant la part de servidor com la de seguretat i permisos.
+
+## **Manual d'instal·lació d’ownCloud amb virtualització mitjançant IsardVDI**##
