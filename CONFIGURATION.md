@@ -1,4 +1,4 @@
-![Captura de pantalla de 2025-05-14 13-05-54](https://github.com/user-attachments/assets/40a41655-eca1-4585-b59e-2c263d99e67d)
+
 ![Captura de pantalla de 2025-05-14 13-05-58](https://github.com/user-attachments/assets/73bb4ce0-d376-4f3b-94e1-8c6b20bf058c)
 ![Captura de pantalla de 2025-05-14 13-06-03](https://github.com/user-attachments/assets/9ad6a86f-db44-4c82-b75d-1e1c1c63ff6f)
 ![Captura de pantalla de 2025-05-14 13-06-09](https://github.com/user-attachments/assets/c20af52b-1c0b-46e1-8a0a-31f60b912cbf)
