@@ -21,3 +21,4 @@
 ![Captura de pantalla de 2025-05-14 13-07-11](https://github.com/user-attachments/assets/45ab9bfb-c9aa-4f60-adc6-2319a7641cd2)
 ![Captura de pantalla de 2025-05-14 13-07-14](https://github.com/user-attachments/assets/b0711fd4-65e0-42ef-ba49-081c75761023)
 ![Captura de pantalla de 2025-05-14 13-07-17](https://github.com/user-attachments/assets/efd575c4-968d-4aca-8509-b0b866d171db)
+![Captura de pantalla de 2025-05-14 13-07-20](https://github.com/user-attachments/assets/13c7e88b-ffb5-4896-a7c1-95e5feba83fa)
