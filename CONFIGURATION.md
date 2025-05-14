@@ -39,10 +39,10 @@ Luego en los usuarios los ponemos en el grupo que queramos de los que heos cread
 Para compartir una carpeta le daos al simbolo de al lado de los tres puntos y afregamos a los usuarios o grupos que queramos y tabien seleccionamos los roles que queramos que tengan
 
 ![Captura de pantalla de 2025-05-14 13-06-59](https://github.com/user-attachments/assets/d7f20f4e-8fee-4989-91be-763ae3c43e61)
-![Captura de pantalla de 2025-05-14 13-06-56](https://github.com/user-attachments/assets/9320a63d-dd5c-4163-b196-20a5c5be5d71)
 
 Ahora entramos con todos los usuarios para ver que permisos tienen. En las capturas se puede ver que es lo que pueden hacer y que no
 
+![Captura de pantalla de 2025-05-14 13-06-56](https://github.com/user-attachments/assets/9320a63d-dd5c-4163-b196-20a5c5be5d71)
 ![Captura de pantalla de 2025-05-14 13-07-01](https://github.com/user-attachments/assets/a85777d2-572e-4c4f-bb9e-5f9737572f30)
 ![Captura de pantalla de 2025-05-14 13-07-05](https://github.com/user-attachments/assets/ecd8d8e6-f5c0-473b-98ed-a1d611b73c22)
 ![Captura de pantalla de 2025-05-14 13-07-08](https://github.com/user-attachments/assets/1fffc51f-507a-4533-9759-a70a489e3efc)
