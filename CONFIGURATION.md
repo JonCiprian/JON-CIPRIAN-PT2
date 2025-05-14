@@ -14,7 +14,7 @@ Y para agregar archivos, lo mismo, pero seleccionando archivos.
 
 ![Captura de pantalla de 2025-05-14 13-06-17](https://github.com/user-attachments/assets/62b52866-e3e1-4224-ba8a-92510acd98bb)
 
-![Captura de pantalla de 2025-05-14 13-06-22
+![Captura de pantalla de 2025-05-14 13-06-22](https://github.com/user-attachments/assets/2d28b910-65a7-4cf2-a705-ad668523aad6)
 
 Para agregar usuarios, nos vamos a las tres líneas de arriba a la derecha y le damos a usuarios, y una vez ahí seguimos las indicaciones de las capturas y ahí creas los usuarios que quieras.
 
@@ -59,4 +59,6 @@ Ahora entramos con todos los usuarios para ver qué permisos tienen. En las capt
 ![Captura de pantalla de 2025-05-14 13-07-17](https://github.com/user-attachments/assets/efd575c4-968d-4aca-8509-b0b866d171db)
 
 ![Captura de pantalla de 2025-05-14 13-07-20](https://github.com/user-attachments/assets/13c7e88b-ffb5-4896-a7c1-95e5feba83fa)
+
+
 
