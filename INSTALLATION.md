@@ -70,8 +70,9 @@ Luego aplicamos los siguientes comandos, cambiando 'owncloud' por el nombre de n
 
 ![Captura de pantalla de 2025-05-14 13-04-53](https://github.com/user-attachments/assets/84da56ad-8228-4e58-ad28-e54368d8f055)
 
-Y aquí se puede comprobar cómo funciona, y entramos al OwnCloud e iniciamos sesión con la información de la captura y de contraseña "password".
+Y aquí se puede comprobar cómo funciona, y entramos a localhost y nos entra a OwnCloud e iniciamos sesión con la información de la captura y de contraseña "password".
 
+![Captura de pantalla de 2025-05-14 13-05-54](https://github.com/user-attachments/assets/40a41655-eca1-4585-b59e-2c263d99e67d)
 ![Captura de pantalla de 2025-05-14 13-05-23](https://github.com/user-attachments/assets/b95ba767-0a90-4cee-8ca4-3efde7c5f3d6)
 ![Captura de pantalla de 2025-05-14 13-05-29](https://github.com/user-attachments/assets/3a967454-884e-4dba-a6ef-1264d942593e)
 
